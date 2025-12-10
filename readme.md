@@ -155,11 +155,11 @@ When order becomes **Received**:
 ## 🛠️ **Suggested Tech Stack**
 *(Customize based on your tech choices)*
 
-- **Frontend:** React / Vue / Angular  
-- **Backend:** Node.js / Express / Java / .NET / Python Flask  
-- **Database:** MySQL / PostgreSQL / MongoDB  
-- **Auth:** JWT / OAuth  
-- **Deployment:** Docker / Kubernetes  
+- **Frontend:** JAVA  
+- **Backend:** JAVA  
+- **Database:** SQLite  
+- **Auth:** TBA  
+- **Deployment:** TBA
 
 ---
 
